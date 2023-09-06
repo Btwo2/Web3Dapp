@@ -1,3 +1,7 @@
+# Descentralized Diary App 
+
+![CyberThoughts_Intro](https://github.com/Btwo2/Web3Dapp/assets/110456965/341cde19-7bc3-4a4f-8430-2a9650fe6386)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
