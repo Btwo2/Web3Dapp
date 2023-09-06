@@ -1,0 +1,57 @@
+"use client";
+
+import Head from "next/head";
+import { doLogin } from "@/services/Web3Service";
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+
+
+
+export default function Home() {
+
+	const [message, setMessage] = useState("");
+
+	function btnLoginClick(){
+	setMessage("Conectando com a MetaMask...aguarde...");
+	doLogin()
+	  .then(wallet => push("/timeline"))
+	  .catch(err => {
+		 console.log(err)
+		 
+	  })
+	}
+	
+	return (
+    <>
+      <Head>
+        <title>CrypTwitter | Login</title>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="fonts.css"/>
+		<link rel="preconnect" href="https://fonts.googleapis.com"/>
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+		<link rel="preconnect" href="https://fonts.googleapis.com"/>
+		<link href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Delicious+Handrawn&family=Swanky+and+Moo+Moo&display=swap" rel="stylesheet"/>
+      </Head>
+      <div className="container px-4 py-5">
+        <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
+          <div className="col-10 col-sm-8 col-lg-6">
+            <img src="/Cyborg0.png" className="d-block mx-lg-auto img-fluid" width="1000" height="700" />
+          </div>
+          <div className="col-lg-6">
+            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3" style= {{ fontFamily: 'Cedarville' }}>CyberThoughts</h1>
+            <p className="lead">Sua rede social descentralizada.</p>
+            <p className="lead mb-3">Autentique-se com a sua carteira, escreva suas mensagens e saiba o que está acontecendo no mundo.</p>
+            <div className="d-grid gap-2 d-md-flex justify-content-md-start">
+              <button type="button" className="btn btn-btn-lg px-4" onClick={btnLoginClick}>
+                <img src="/Metadraw.png" width="64" className="me-3" />
+                Conectar com a MetaMask
+              </button>
+            </div>
+            <p className="message">{message}</p>
+          </div>
+        </div>
+      </div>
+    </>
+  )
+}
