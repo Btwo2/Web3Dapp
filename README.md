@@ -29,3 +29,24 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+# Web Deployed Version
+
+![image](https://github.com/Btwo2/Web3Dapp/assets/110456965/c68a51a8-8bc5-4b1a-a5b6-5f5e55a8b077)
+
+This is a preview non-optimized version for visualizing
+
+## Try by yourself!
+
+- Create a [Deta Space](https://deta.space/) account
+
+- Access [Deta Space - CyberThoughts](https://deta.space/discovery/r/cun3rsclbdrqfgeu) and install on your Space
+
+- If you yet don't have, create a MetaMask wallet [Metamask](https://metamask.io/)
+  
+- Join BNB Smart Chain Testnet [How to Add BNB Chain Testnet to MetaMask](https://www.datawallet.com/crypto/add-binance-chain-testnet-to-metamask)
+
+- Add some tBNB to your wallet [Binance Smart Chain Faucet](https://testnet.bnbchain.org/faucet-smart)
+
+- Enjoy It!
+
+At each iteration you will need to updata the page by yourself
