@@ -24,6 +24,7 @@ export default function NewCyberThought(){
             .catch(err => {
                 setMessage(err.message);
                 console.error(err);
+				push("/");	//return to inicial page to do login				
             })
     }
 	
