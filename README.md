@@ -33,13 +33,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ![image](https://github.com/Btwo2/Web3Dapp/assets/110456965/c68a51a8-8bc5-4b1a-a5b6-5f5e55a8b077)
 
-This is a preview non-optimized version for visualizing
+This vizualization preview allows interation on 
 
 ## Try by yourself!
 
 - Create a [Deta Space](https://deta.space/) account
 
-- Access [Deta Space - CyberThoughts](https://deta.space/discovery/r/cun3rsclbdrqfgeu) and install on your Space
+- Access [Deta Space - CyberThoughts](https://deta.space/discovery/r/bsua4ptrgftbxpan) and install on your Space
 
 - If you yet don't have, create a MetaMask wallet [Metamask](https://metamask.io/)
   
@@ -49,4 +49,7 @@ This is a preview non-optimized version for visualizing
 
 - Enjoy It!
 
-At each iteration you will need to updata the page by yourself
+  ![Canvas - Deta Space — Mozilla Firefox 2023-09-11 04-28-40](https://github.com/Btwo2/Web3Dapp/assets/110456965/226364f3-20de-40f3-a6c9-5b0d37291e6e)
+
+-> Only jpg|jpeg|png|webp|avif|gif|svg format allowed for changing photos
+-> You can only request a username, just a contract owner can change it
