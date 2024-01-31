@@ -46,8 +46,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Add some tBNB to your wallet [Binance Smart Chain Faucet](https://testnet.bnbchain.org/faucet-smart)
 
 - Enjoy It!
-
-  ![Canvas - Deta Space — Mozilla Firefox 2023-09-11 04-28-40](https://github.com/Btwo2/Web3Dapp/assets/110456965/226364f3-20de-40f3-a6c9-5b0d37291e6e)
+  
+<p align=center>
+  <img width=700 src="https://github.com/Btwo2/Web3Dapp/assets/110456965/226364f3-20de-40f3-a6c9-5b0d37291e6e)" />
+</p>
 
 -> Only jpg|jpeg|png|webp|avif|gif|svg format allowed for changing photos
 -> You can only request a username, just a contract owner can change it
