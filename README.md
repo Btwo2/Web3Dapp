@@ -33,8 +33,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ![image](https://github.com/Btwo2/Web3Dapp/assets/110456965/c68a51a8-8bc5-4b1a-a5b6-5f5e55a8b077)
 
-This vizualization preview allows interation on 
-
 ## Try by yourself!
 
 - Create a [Deta Space](https://deta.space/) account
