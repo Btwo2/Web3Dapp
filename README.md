@@ -48,7 +48,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Enjoy It!
   
 <p align=center>
-  <img width=700 src="https://github.com/Btwo2/Web3Dapp/assets/110456965/226364f3-20de-40f3-a6c9-5b0d37291e6e)" />
+  <img src="https://github.com/Btwo2/Web3Dapp/assets/110456965/226364f3-20de-40f3-a6c9-5b0d37291e6e)" />
 </p>
 
 -> Only jpg|jpeg|png|webp|avif|gif|svg format allowed for changing photos
