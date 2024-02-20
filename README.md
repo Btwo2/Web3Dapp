@@ -46,9 +46,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Add some tBNB to your wallet [Binance Smart Chain Faucet](https://testnet.bnbchain.org/faucet-smart)
 
 - Enjoy It!
-  
-<p align=center>
-  <img src="https://github.com/Btwo2/Web3Dapp/assets/110456965/226364f3-20de-40f3-a6c9-5b0d37291e6e)" />
+- 
+<p align="center">
+<img src="https://github.com/Btwo2/Web3Dapp/assets/110456965/a9166f00-e593-42a4-84d7-d637ab049859" width="800"/>
 </p>
 
 -> Only jpg|jpeg|png|webp|avif|gif|svg format allowed for changing photos
